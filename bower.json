@@ -1,0 +1,16 @@
+{
+  "name": "multivision",
+  "version": "0.0.0",
+  "authors": [
+    "Jerry Gerard <jerry.gerard@finra.org>"
+  ],
+  "description": "Learning",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-resource": "~1.4.5",
+    "angular-route": "~1.4.5",
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2"
+  }
+}
